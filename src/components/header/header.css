@@ -1,0 +1,55 @@
+.header{
+    background-color: #003580;
+    color: #fff;
+    display: flex;
+    justify-content: center;
+}
+
+.headerContainer{
+    width: 100%;
+    max-width: 1024px;
+    margin: 20px 0 100px 0;
+}
+
+.headerList {
+    display: flex;
+    gap: 35px;
+    margin-bottom: 40px;
+}
+
+.headerListItem {
+    display: flex;
+    gap: 5px;
+    align-items: center;
+    padding: 10px;
+}
+
+.headerListItem.active{
+    border: 1px solid #fff;
+    border-radius: 8px;
+}
+
+.headerDesc {
+    margin: 20px 0;
+}
+
+.headerBtn{
+    background-color: #0071c2;
+    color: #fff;
+    border: none;
+    padding: 5px 15px;
+    font-size: 15px;
+    font-weight: 500;
+    cursor: pointer;
+}
+
+.headerSearch{
+
+}
+.headerSearchItem{
+
+}
+
+.headerSearchInput{
+    
+}
