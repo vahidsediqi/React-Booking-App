@@ -1,3 +1,7 @@
+# About Developer
+
+Vahid Sediqi is a MERN Stack developer who love to create react projects for any business type [Visit Vahid Sediqi Website ](https://vahidsediqi.com).
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
